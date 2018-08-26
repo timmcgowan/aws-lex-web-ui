@@ -18,17 +18,17 @@
         }
       ]
     },
-    "description": "Bot to order flowers on the behalf of a user",
+    "description": "Bot for user questions",
     "idleSessionTTLInSeconds": 600,
     "intents": [
       {
-        "intentName": "OrderFlowers",
+        "intentName": "CloudHelp",
         "intentVersion": "$LATEST"
       }
     ],
     "locale": "en-US",
     "name": "OrderFlowers",
-    "voiceId": "Salli"
+    "voiceId": "Matthew"
   },
   "intents": [
     {
@@ -59,33 +59,12 @@
         ]
       },
       "sampleUtterances": [
-        "I would like to order some flowers",
-        "I would like to buy some flowers",
-        "I would like to pick up flowers",
-        "I would like to order flowers",
-        "I would like to buy flowers",
-        "Can I please get flowers",
-        "May I please get flowers",
-        "I want to place an order",
-        "I want to order flowers",
-        "I want to buy flowers",
-        "May I order flowers",
-        "Can I order flowers",
-        "Can I buy flowers",
-        "Can I get flowers",
-        "May I get flowers",
-        "May I buy flowers",
-        "I want to order",
-        "I want flowers",
-        "place an order",
-        "I want to buy",
-        "make an order",
-        "order flowers",
-        "buy flowers",
-        "put an order",
+        "I would like to know how to deploy my application",
+        "I would like to know cloud stuff",
+        "Can I please get help",
         "can I order",
         "place order",
-        "make order",
+        "get help",
         "order",
         "buy"
       ],

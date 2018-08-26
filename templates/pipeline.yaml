@@ -57,7 +57,7 @@ Parameters:
             Cognito Identity Pool Id to used in the web app configuration.
         MinLength: 1
         MaxLength: 55
-        AllowedPattern: '^[\w-]+:[0-9a-f-]+$'
+        AllowedPattern: '^[\w-]+$'
         ConstraintDescription: >
             Alphanumeric followed by a colum and ending with a hex uuid type.
 
