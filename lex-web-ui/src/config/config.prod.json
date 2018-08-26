@@ -4,16 +4,16 @@
   },
   "lex": {
     "botName": "WebUiOrderFlowers",
-    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+    "initialText": "You can ask me for help. Just type \"cloud help\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Help me with Cloud' to get started."
   },
   "polly": {
-    "voiceId": "Salli"
+    "voiceId": "Matthew"
   },
   "ui": {
     "parentOrigin": "",
-    "pageTitle": "Order Flowers Bot",
-    "toolbarTitle": "Order Flowers"
+    "pageTitle": "Larry Bot",
+    "toolbarTitle": "Cloud Assistance"
   },
   "recorder": {
     "preset": "speech_recognition"
